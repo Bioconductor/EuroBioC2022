@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "EuroBioC2021"
+title = "EuroBioC2022"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
 languageCode = "en-us"
