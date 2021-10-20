@@ -3,7 +3,7 @@ title = "Registration"
 description = "Registration"
 +++
 
-## Coming soon
+## Registration for the EuroBioC2022 in-person/hybrid conference opens Jan 10, 2022! Mark your calendar.
 
 
 <!--
