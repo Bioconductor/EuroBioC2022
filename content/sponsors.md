@@ -3,7 +3,23 @@ title = "Sponsors"
 description = "Sponsors"
 +++
 
-## Coming soon
+|       |
+|:-----:|
+| **OLISSIPO** |
+| ![](../img/clients/OLISSIPO_logo_v-c03_resized.png) |
+| **https://olissipo.inesc-id.pt/** |
+&nbsp;
+
+# Patronage
+
+|       |
+|:-----:|
+| **European Molecular Biology Laboratory** |
+| ![](../img/clients/EMBL_logo_colour_RGB_resized.png) |
+| **https://www.embl.org/sites/heidelberg/** |
+&nbsp;
+
+
 
 <!--
 # Platinum
