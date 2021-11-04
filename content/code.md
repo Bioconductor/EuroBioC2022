@@ -3,7 +3,7 @@ title = "Code of conduct"
 description = "Code of conduct"
 +++
 
-This code of conduct is developed for the EuroBioC2022 conference. For more details, see the [Bioconductor Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/)
+This code of conduct was developed for the EuroBioC2022 conference. For more details, see the [Bioconductor Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/)
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
 
 ## Social media policy
@@ -21,7 +21,7 @@ physical appearance, body size, race, age, or religion.
 The Virtual Event Code of Conduct applies to EuroBioC2022 virtual events and communications, including but not limited to the virtual platform, talks, workshops, poster sessions, social activities, slack, online and social media communications. We do not tolerate harassment, intimidation, or bullying of conference participants. Sexual language and imagery are not appropriate in presentations, communications, in online venues, including chats. 
 
 Conference participants violating these rules may be sanctioned or expelled from the conference with no refund, 
-at the discretion of the conference organizers. Our anti-harassment policy can be found at [https://bioc2020.bioconductor.org/code_of_conduct](https://bioc2020.bioconductor.org/code_of_conduct)
+at the discretion of the conference organizers. 
 
 ## Examples of unacceptable harassment, intimidation, and bullying behavior
 
@@ -75,18 +75,17 @@ When taking a personal report, our staff will ensure you are safe and cannot be 
 
 Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance. 
 
+For Code of Conduct in other languages, see [bioc_coc_multilingual](https://kevinrue.github.io/bioc_coc_multilingual/)
+
 ### Code of Conduct violation reports 
 
 * Email: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
 * Anonymous Code of Conduct violation reports: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
-* Law enforcement emergency number: 911
+* Law enforcement emergency number: 112
 
-<!--
 ### Code of Conduct Committee
 
 |       |   |     |   |      |
 |-------|---|-----|---|------|
-| ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/Laurent.jpg) |
+| ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.jpg) |
 | [Aedin Culhane](mailto:aedin@jimmy.harvard.edu?subject=BioC2019%20code-of-conduct) | &nbsp;  | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=BioC2019%20Code-of-conduct) |
-
--->
