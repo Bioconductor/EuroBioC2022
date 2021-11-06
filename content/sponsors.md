@@ -150,41 +150,38 @@ description = "Sponsors"
 > Interested in sponsoring this conference? <br> 
 Please contact <workshop@bioconductor.org>
 
-**Your sponsorship will help increase diversity and representation at Bioconductor 2021** by:
+**Your sponsorship will help increase diversity and representation at the European Bioconductor Conference 2022** by:
 
-- Keeping registration costs affordable for academic participants and trainees.  
-- Provide high quality hybrid/virtual programming and post-production and sharing of videos and conference materials
-- Funding travel scholarships for students and postdoctoral fellows.
-- Providing caregiver awards to assist in childcare or eldercare costs
-- Offering student diversity scholarships to increase participation of underrepresented minorities
+- Reducing registration costs for academic participants, trainees and especially students from countries outside CA, EEA, UK or US.
+- Funding travel scholarships for students, trainees and postdoctoral fellows from countries outside CA, EEA, UK or US.
+- Offering student diversity scholarships to increase participation of students and trainees with migration background. 
+- Providing caregiver awards to assist with childcare or eldercare costs.
+- Provide high quality live streaming of the talks and post-production and sharing of videos and conference materials.
 
 Three levels of sponsorship are available. Sponsors of all levels may present a poster highlighting the scientific interests of their organization in the poster sessions.
 
-**Platinum: $10,000 USD**
+**Platinum: 5.000,00 Euros**
 
-- Poster session will be named after these donors. 
-- Highest recognition, using your logo, in the online and print promotional and scheduling material. 
-- Up to 8 free registrations.
-- A thank-you tweet including your preferred Twitter handle. 
-- A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
-- A virtual table during the poster session and social hours*
+- Poster session will be named after these donors.
+- Highest recognition, using your logo, in the online plattform (Airmeet), on the website, and on printed promotional and scheduling material.
+- Up to 5 free registrations and participation in the social dinner.
+- A thank-you tweet including your preferred Twitter handle.
+- A table during the poster session
 
+**Gold: 3.000,00 Euros**
 
-**Gold: $5,000 USD**
+- Top recognition, using your logo, in the online and print conference promotional and scheduling material.
+- Up to 3 free registrations.
+- A thank-you tweet including your preferred Twitter handle.
+- A table during the poster session
 
-- Top recognition, using your logo, in the online and print conference promotional and scheduling material. 
-- Up to 5 free registrations. 
-- A thank-you tweet including your preferred Twitter handle. 
-- A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
-- A virtual table during the poster session and social hours*
-
-**Silver: $1,000 USD**
+**Silver: 1,000 Euros**
 
 - Sponsor names will be listed in the online and print promotional and scheduling material.
 - Academic discount on 2 registrations.
 - A thank-you tweet including your preferred Twitter handle.
 
-* Bioconductor will follow local and state guidelines and will only host in-person events if it is safe to do so. 
+_The organisers will follow local and state guidelines and will only host in-person events if it is safe to do so._
 
 ***
 
