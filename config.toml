@@ -41,38 +41,37 @@ paginate = 50
     url  = "/schedule/"
     weight = 3
 
-#[[menu.main]]
-#    identifier="workshops"
-#    name = "Workshops"
-#    url  = "/workshops-status/"
-#    weight = 4
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url  = "#"
+    weight = 5
 
+# https://github.com/devcows/hugo-universal-theme/issues/34
 [[menu.main]]
     identifier = "organizers"
+    parent = "about"
     name = "Organizers"
     url  = "/organizers/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     identifier = "sponsors"
+    parent = "about"
     name = "Sponsors"
     url  = "/sponsors/"
-    weight = 6
-
-#[[menu.main]]
-#    identifier="jobs"
-#    name = "Jobs"
-#    url  = "/jobs/"
-#    weight = 7
+    weight = 7
 
 [[menu.main]]
     identifier = "code"
+    parent = "about"
     name = "Code of conduct"
     url  = "/code/"
     weight = 8
 
 [[menu.main]]
     identifier = "conferences"
+    parent = "about"
     name = "Past events"
     url  = "/conferences/"
     weight = 9
