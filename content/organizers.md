@@ -26,7 +26,7 @@ description = "Organizers"
 | Vincent Carey                             | &nbsp; |                                              | &nbsp; |                                             | &nbsp; |  |
 
 
-
+##### Contact us: workshop(at)bioconductor.org
 
 
 
