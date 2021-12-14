@@ -1,4 +1,4 @@
-text: "Björn Grüning currently works at the Inst. of Computer Science, University of Freiburg and is leading the Freiburg Galaxy team. https://twitter.com/bjoerngruening"
+text: "Björn Grüning currently works at the Institute of Computer Science, University of Freiburg and is leading the Freiburg Galaxy team. The Team offers a framework for scientists on e.g. NGS data analyses (RNA-seq, ChIP-seq, Exome-seq, MethylC-seq), genome annotation analyses for eukaryotic and prokaryotic organisms (from gene prediction to functional description), Proteomics and Metabolomics analysis, and the ChemicalToolBoX for analysis of small compounds. Furthermore, Galaxy has a huge variety of data visualization tools. Galaxy contains more than 800 different single analysis tools and ready-to-use pipelines for different applications. After registration, all tools and the infrastructure for data analysis are freely available and can be used for creation of your own workflows for your specific projects. https://twitter.com/bjoerngruening"
 name: "Dr. Björn Grüning"
-position: "Galaxy team leader"
+position: "Galaxy team leader at University of Freiburg"
 avatar: "img/speakers/Bjorn_Gruning.jpg"
