@@ -7,7 +7,7 @@ description = "Submissions"
 
 [Access the EuroBioC2022 Conference submission portal at https://openreview.net/group?id=bioconductor.org/BioC/2021/Conference](https://openreview.net/group?id=bioconductor.org/BioC/2021/Conference) -->
 
-## January 15, 2022: Call for abstracts opens
+## Call for abstracts will open soon
 <!--* New! Deadline extended to March 16, 2021: Abstract submission closes
 * Abstract submission is now closed. All submissions are currently under review.
 * April 16, 2021: Notification of decision

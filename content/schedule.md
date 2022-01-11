@@ -7,6 +7,7 @@ description = "Schedule"
 
 Keynote sessions are 50 min, Short talk sessions (four 10-min talks) are 50 min, Package demos are 45 min. Sessions during the same time slot will be run in parallel. All sessions include Q&A time.
 
+<!--
 All times are in Central European Time (CET). -6 hours = US Eastern Time Zone, -9 hours = US Pacific Time Zone, +7 hours = China Time Zone, +10 hours = Australian Time Zone. Time is presented in 24h format. Note March 13 is the start of Daylight Saving Time (Clock forward)
 
 ### Monday and Tuesday, March 14-15, 2022
@@ -72,6 +73,8 @@ Pre-conference Carpentries Course
 | 12:00                      | &nbsp; &nbsp; Lunch                         | &nbsp; &nbsp;                                                                                                                                                                                                                                                                               |                                       |
 | 13:00                      | &nbsp; &nbsp; Special session               | &nbsp; &nbsp; Birds-of-a-Feather, Four parallel sessions                                                                                                                                                                                                                                    |                                       |
 | 14:30                      | &nbsp; &nbsp; Coffee break                  | &nbsp; &nbsp;                                                                                                                                                                                                                                                                               |                                       |
+
+-->
 
 <!--The conference will be held on the [Airmeet](https://www.airmeet.com/) virtual platform. Please, refer to the [Guide for participants](https://youtu.be/FvvZzcwlyv4) video and the [step-by-step guide how to use Airmeet](https://www.airmeet.com/hub/product-blog/step-by-step-guide-use-airmeet-for-attendees/). Please note there are no options to blur or hide your background in Airmeet; use third-party software if the blur is necessary.
 
