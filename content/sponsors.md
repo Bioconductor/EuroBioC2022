@@ -147,8 +147,8 @@ description = "Sponsors"
 
 ## Sponsor Opportunities
 
-> Interested in sponsoring this conference? <br> 
-Please contact <workshop@bioconductor.org>
+> Interested in sponsoring EuroBioC2022? <br> 
+Please contact <eurobioc@embl.org>
 
 **Your sponsorship will help increase diversity and representation at the European Bioconductor Conference 2022** by:
 
