@@ -7,6 +7,13 @@ description = "Sponsors"
 
 |       |
 |:-----:|
+| **OLISSIPO** |
+| ![](../img/clients/OLISSIPO_logo_v-c03_resized.png) |
+| **https://olissipo.inesc-id.pt/** |
+&nbsp;
+
+|       |
+|:-----:|
 | **Evotec** |
 | ![](../img/clients/evotec_logo_RGB_resized.jpg) |
 | **https://www.evotec.com/** |
@@ -19,13 +26,6 @@ description = "Sponsors"
 | **BioMedX** |
 | ![](../img/clients/BioMedX_resized.jpg) |
 | **https://bio.mx/** |
-&nbsp;
-
-|       |
-|:-----:|
-| **OLISSIPO** |
-| ![](../img/clients/OLISSIPO_logo_v-c03_resized.png) |
-| **https://olissipo.inesc-id.pt/** |
 &nbsp;
 
 # Patronage
