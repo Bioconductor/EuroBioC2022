@@ -3,6 +3,24 @@ title = "Sponsors"
 description = "Sponsors"
 +++
 
+# Platinum
+
+|       |
+|:-----:|
+| **Evotec** |
+| ![](../img/clients/evotec_logo_RGB_resized.jpg) |
+| **https://www.evotec.com/** |
+&nbsp;
+
+# Silver
+
+|       |
+|:-----:|
+| **BioMedX** |
+| ![](../img/clients/BioMedX_resized.jpg) |
+| **https://bio.mx/** |
+&nbsp;
+
 |       |
 |:-----:|
 | **OLISSIPO** |
@@ -22,14 +40,6 @@ description = "Sponsors"
 
 
 <!--
-# Platinum
-
-|       |
-|:-----:|
-| **Moderna Therapeutics** |
-| ![](../img/clients/moderna-therapeutics-logo_resized.png) |
-| **https://www.modernatx.com/** |
-&nbsp;
 
 |       |
 |:-----:|
