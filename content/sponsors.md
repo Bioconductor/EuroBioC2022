@@ -28,6 +28,14 @@ description = "Sponsors"
 | **https://bio.mx/** |
 &nbsp;
 
+|       |
+|:-----:|
+| **Tercen Data Analytics Ltd.** |
+| ![](../img/clients/Tercen_weblogo4_resized.png) |
+| **https://www.tercen.com/** |
+
+&nbsp;
+
 # Patronage
 
 |       |
@@ -106,14 +114,6 @@ description = "Sponsors"
 &nbsp;
 
 # Silver
-
-|       |
-|:-----:|
-| **Tercen Data Analytics Ltd.** |
-| ![](../img/clients/Tercen_weblogo4_resized.png) |
-| **https://www.tercen.com/** |
-
-&nbsp;
 
 |       |
 |:-----:|
