@@ -28,14 +28,6 @@ description = "Sponsors"
 | **https://bio.mx/** |
 &nbsp;
 
-|       |
-|:-----:|
-| **Tercen Data Analytics Ltd.** |
-| ![](../img/clients/Tercen_weblogo4_resized.png) |
-| **https://www.tercen.com/** |
-
-&nbsp;
-
 # Patronage
 
 |       |
@@ -149,6 +141,16 @@ description = "Sponsors"
 | **Bristol Myers Squibb** |
 | ![](../img/clients/bms-rebrand-logo.svg.png) |
 | **https://www.bms.com/** |
+
+
+|       |
+|:-----:|
+| **Tercen Data Analytics Ltd.** |
+| ![](../img/clients/Tercen_weblogo4_resized.png) |
+| **https://www.tercen.com/** |
+
+&nbsp;
+
 -->
 
 &nbsp;
