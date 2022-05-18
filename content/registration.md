@@ -3,15 +3,9 @@ title = "Registration"
 description = "Registration"
 +++
 
-## Registration for the EuroBioC2022 conference will be announced soon.
+## Registration for the EuroBioC2022 conference is now open.
 
-<!--
-## [Registration to the virtual Bioc2021 conference is now open!](https://www.airmeet.com/e/3124e6e0-8b3d-11eb-adfc-b1c12ad96800)
 
-[Registration link](https://www.airmeet.com/e/3124e6e0-8b3d-11eb-adfc-b1c12ad96800)
--->
-
-<!--The registration fee includes access to the conference, talks, workshops, Q&As following each session, network opportunities. This fee helps us cover the cost of the venue and other associated costs for the conference.-->
 
 <!--
 If you are currently experiencing financial hardship or reduced funding, please apply for a [BioC2021 Scholarship](https://docs.google.com/forms/d/e/1FAIpQLSeOE8FfcewYccR37o5dtC_tUjTCE5cKbyVMC_68uMuC3CgQbA/viewform?usp=pp_url) for a waiver on the registration fee.
@@ -19,15 +13,14 @@ If you are currently experiencing financial hardship or reduced funding, please 
 Bioconductor is offering a limited number of awards to cover caregiving expenses for BioC2021 attendees. If you need assistance with childcare or eldercare during the course of the conference, please [apply here](https://forms.gle/8sUSgNwKFDFEZii58). 
 -->
 
-<!--
+
 ## Fees
 
-| Rate                                                         | &nbsp;                            | Price (EUR) |
-|--------------------------------------------------------------|-----------------------------------|-------------|
-| Academic: Postdoc, faculty, staff, government                | &nbsp; &nbsp; &nbsp;              | €150.00     |
-| Trainee: Student, predoc                                     | &nbsp; &nbsp; &nbsp;              | €70.00      |
-| Industry                                                     | &nbsp; &nbsp; &nbsp;              | €250.00     |
--->
+{{< feeTable >}}
+
+## Register
+
+{{< registrationForm >}}
 
 <!--
 ## FAQ
@@ -50,13 +43,4 @@ Bioconductor is offering a limited number of awards to cover caregiving expenses
 Bioconductor is a non-profit organization, and conferences are designed only to break even every year. As a result we are generally unable to offer individual refunds.
 -->
 
-
-<!--
-All time is US Eastern Time. All sessions include Q&A time.
-
-| Time                   |               | Track      |               | Name                     |
-|:----------------------:|---------------|------------|---------------|--------------------------|
-| **Monday, 7/27/2020**  | &nbsp; &nbsp; |            | &nbsp; &nbsp; |                          |
-| 8:00 AM                | &nbsp; &nbsp; | Community  | &nbsp; &nbsp; | Open breakfast meeting   |
--->
 
