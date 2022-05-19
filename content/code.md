@@ -75,17 +75,17 @@ When taking a personal report, our staff will ensure you are safe and cannot be 
 
 Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance. 
 
-For Code of Conduct in other languages, see [bioc_coc_multilingual](https://kevinrue.github.io/bioc_coc_multilingual/)
+For Code of Conduct in other languages, see [bioc_coc_multilingual](https://bioconductor.github.io/bioc_coc_multilingual/)
 
 ### Code of Conduct violation reports 
 
-* Email: [code-of-conduct@bioconductor.org](mailto:workshop@bioconductor.org?subject=BioC2019%20code-of-conduct)
+* Email: [code-of-conduct@bioconductor.org](mailto:code-of-conduct@bioconductor.org?subject=EuroBioC2022%20code-of-conduct)
 * Anonymous Code of Conduct violation reports: [https://tinyurl.com/bioccomplaint](https://tinyurl.com/bioccomplaint)
-* Law enforcement emergency number: 112
+* Law enforcement emergency number: 110
 
 ### Code of Conduct Committee
 
 |       |   |     |   |      |
 |-------|---|-----|---|------|
 | ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.jpg) |
-| [Aedin Culhane](mailto:aedin@jimmy.harvard.edu?subject=BioC2019%20code-of-conduct) | &nbsp;  | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=BioC2019%20Code-of-conduct) |
+| [Aedin Culhane](mailto:Aedin.Culhane@ul.ie?subject=EuroBioC2022%20code-of-conduct) | &nbsp;  | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=EuroBioC2022%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=EuroBioC2022%20Code-of-conduct) |
