@@ -19,6 +19,15 @@ description = "Sponsors"
 | **https://www.evotec.com/** |
 &nbsp;
 
+# Gold
+
+|       |
+|:-----:|
+| **Bayer** |
+| ![](../img/clients/bayer_resized.png) |
+| **https://www.bayer.com/** |
+&nbsp;
+
 # Silver
 
 |       |
@@ -26,6 +35,13 @@ description = "Sponsors"
 | **BioMedX** |
 | ![](../img/clients/BioMedX_resized.jpg) |
 | **https://bio.mx/** |
+&nbsp;
+
+|       |
+|:-----:|
+| **RStudio** |
+| ![](../img/clients/RStudio_resized.jpeg) |
+| **https://www.rstudio.com/** |
 &nbsp;
 
 # Patronage
