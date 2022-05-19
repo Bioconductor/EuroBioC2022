@@ -2,13 +2,21 @@
 title = "Payment"
 +++
 
+# Important!
+
 Thank you for your registration.  Your place at the conference is only confirmed once the payment has been made.  You can do this either via the Paypal "Add to cart" button below or via bank transfer.
 
-Please ensure that you provide the name of the person attending the conference in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the categories of registration are listed below.  
+## Paypal
+
+If you wish to pay be Paypal, please ensure that you provide the name of the person attending the conference in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the categories of registration are listed below.  
 
 On the payment page please choose the yellow "PayPal check out" button even if you do not have a PayPal account.  You will be able to pay directly with a credit card on the next page.
 
 If you are paying for multiple participants you can add each of them to the basket separately and then proceed with a single payment.
+
+## Bank transfer
+
+If you prefer to pay via bank transfer you can ignore this payment page and will be sent an invoice with the payment details in the next few days.
 
 ---
 
