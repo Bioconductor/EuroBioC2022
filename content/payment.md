@@ -4,11 +4,11 @@ title = "Payment"
 
 # Important!
 
-Thank you for your registration.  Your place at the conference is only confirmed once the payment has been made.  You can do this either via the Paypal "Add to cart" button below or via bank transfer.
+Thank you for your registration.  Your place at the conference is only confirmed once the payment has been made.  You can do this either via the PayPal "Add to cart" button below or via bank transfer.
 
-## Paypal
+## PayPal
 
-If you wish to pay be Paypal, please ensure that you provide the name of the person attending the conference in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the categories of registration are listed below.  
+If you wish to pay by PayPal, please ensure that you provide the name of the person attending the conference in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the categories of registration are listed below.  
 
 On the payment page please choose the yellow "PayPal check out" button even if you do not have a PayPal account.  You will be able to pay directly with a credit card on the next page.
 
@@ -25,7 +25,7 @@ If you prefer to pay via bank transfer you can ignore this payment page and will
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="SNDTSB2KGSAZU">
-<input type="hidden" name="shopping_url" value="https://eurobioc2022.bioconductor.eu/payment/"> 
+<input type="hidden" name="shopping_url" value="https://eurobioc2022.bioconductor.org/payment/"> 
 <table>
 <tr><td><input type="hidden" name="on0" value="Registration fees">Registration fees</td></tr><tr><td><select name="os0">
 	<option value="Non-academic/Industry">Non-academic/Industry €350,00 EUR</option>
