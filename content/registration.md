@@ -15,7 +15,7 @@ The non-refundable fees include participation in the talks and workshops, and al
 
 Places are awarded on a first-come, first-served basis. In previous years the conference was sold out. We aim to finalize registration by 20 July 2022.
 
-In order to register, each participant needs to fill in the form below and complete the payment. Please indicate in the form if you would like to pay via Paypal or banktransfer.  All registrations will be sent an invoice regardless of payment type.
+In order to register, each participant needs to fill in the form below and complete the payment. Please indicate in the form if you would prefer to pay with credit card (via PayPal) or bank transfer.  All registrations will be sent an invoice regardless of payment type.
 
 Speakers and programme agenda are subject to change.
 
