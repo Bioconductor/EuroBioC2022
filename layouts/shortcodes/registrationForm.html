@@ -77,7 +77,18 @@
     </div>
     <div class="col-lg-4 col-md-6">
       <div class="form-group">
-        <label for="pay-bank-transfer">Pay by bank transfer rather than PayPal<br/>(we will send you an invoice with the bank details)</label>
+        <label for="registration-type">Registration Type<br><br></label>
+        <select class="form-control" name="registration-type" id="registration-type">
+        <option hidden disabled selected value> -- select an option -- </option>
+        <option value="Junior Researcher">Junior Researcher</option>
+        <option value="Academic / Non-profit">Academic / Non-profit</option>
+    	  <option value="Industry">Industry</option>
+    	  </select>
+      </div>
+    </div>
+    <div class="col-lg-4 col-md-6">
+      <div class="form-group">
+        <label for="pay-bank-transfer">Pay by bank transfer rather than Credit card/PayPal<br/>(we will send you an invoice with the bank details)</label>
         <input type="checkbox" class="form-control" id="pay-bank-transfer" name="pay-bank-transfer">
       </div>
     </div>
