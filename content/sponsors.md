@@ -19,6 +19,13 @@ description = "Sponsors"
 | **https://www.evotec.com/** |
 &nbsp;
 
+|       |
+|:-----:|
+| **The German Human Genome-Phenome Archive** |
+| ![](../img/clients/GHGA_Logo_resized.png) |
+| **https://www.ghga.de/** |
+&nbsp;
+
 # Gold
 
 |       |
