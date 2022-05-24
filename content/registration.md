@@ -42,7 +42,7 @@ Speakers and programme agenda are subject to change.
 
 ## Cancellation Policy
 
-Bioconductor is a non-profit organization, and conferences are designed only to break even every year. As a result we are generally unable to offer individual refunds.
+The European Bioconductor Society e.V. is a non-profit society, and conferences are designed only to break even every year. As a result we are unable to offer individual refunds.
 
 
 
