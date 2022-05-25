@@ -22,8 +22,8 @@ description = "Organizers"
 | Marcel Ramos                              | &nbsp; | Mark Robinson                                | &nbsp; | Michael Stadler                             | &nbsp; | Mike Smith                                | &nbsp; | Mikhail Dozmorov                            |
 | ![](../img/organizers/ivanekr.jpg)        | &nbsp; | ![](../img/organizers/StefanoMangiola.png)   | &nbsp; | ![](../img/organizers/SeanDavis.jpg)        | &nbsp; | ![](../img/organizers/SimoneBell.jpg)     | &nbsp; | ![](../img/organizers/ThomasNaake.jpg)      |
 | Robert Ivanek                             | &nbsp; | Stefano Mangiola                             | &nbsp; | Sean Davis                                  | &nbsp; | Simone Bell                               | &nbsp; | Thomas Naake                                |
-| ![](../img/organizers/VincentCarey.png)   | &nbsp; |                                              | &nbsp; |                                             | &nbsp; |  |
-| Vincent Carey                             | &nbsp; |                                              | &nbsp; |                                             | &nbsp; |  |
+| ![](../img/organizers/VincentCarey.png)   | &nbsp; | ![](../img/organizers/LeoLahti.jpg)          | &nbsp; |                                             | &nbsp; |  |
+| Vincent Carey                             | &nbsp; | Leo Lahti                                    | &nbsp; |                                             | &nbsp; |  |
 
 
 ### Contact us: eurobioc@embl.org
