@@ -7,7 +7,7 @@ description = "Submissions"
 
 Access the [EuroBioC2022 Conference submission portal](https://openreview.net/group?id=bioconductor.org/EuroBioC/2022/Conference)
 
-* May 31, 2022 (23:59 GMT): Submission closes
+* Submission deadline extented till June 10, 2022 (23:59 GMT).
 
 <!--## Call for abstracts will open soon
 * New! Deadline extended to March 16, 2021: Abstract submission closes
