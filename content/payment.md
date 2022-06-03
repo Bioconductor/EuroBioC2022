@@ -26,6 +26,8 @@ If you prefer to pay via bank transfer you can ignore this payment page and will
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="SNDTSB2KGSAZU">
 <input type="hidden" name="shopping_url" value="https://eurobioc2022.bioconductor.org/payment/"> 
+<input type="hidden" name="return" value="https://eurobioc2022.bioconductor.org/success/"> 
+<input type="hidden" name="cancel_return" value="https://eurobioc2022.bioconductor.org/cancellation/"> 
 <table>
 <tr><td><input type="hidden" name="on0" value="Registration fees">Registration fees</td></tr><tr><td><select name="os0">
 	<option value="Non-academic/Industry">Non-academic/Industry €350,00 EUR</option>
