@@ -21,7 +21,11 @@ Speakers and programme agenda are subject to change.
 
 ## Register
 
+Registration is temporarily paused until 29-07-2022.
+
+<!--
 {{< registrationForm >}}
+-->
 
 <!--
 ## FAQ
