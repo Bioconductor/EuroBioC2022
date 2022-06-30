@@ -21,7 +21,9 @@ Speakers and programme agenda are subject to change.
 
 ## Register
 
-Registration is temporarily paused until 29-07-2022.
+Registration is closed as the venue capacity has been reached.  
+
+If your abstract has been accepted, but you have not yet registered, please use the link in the acceptance email to complete registration.
 
 <!--
 {{< registrationForm >}}
