@@ -1,3 +1,17 @@
 [build.environment]
   HUGO_VERSION = "0.76.5"
 
+[[headers]]
+  for = "/submission-registration"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+
+[[headers]]
+  for = "/success"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+    
+[[headers]]
+  for = "/cancellation"
+  [headers.values]
+    X-Robots-Tag = "noindex"
