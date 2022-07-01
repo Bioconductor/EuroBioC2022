@@ -19,7 +19,7 @@ In order to register, each participant needs to fill in the form below and compl
 
 ## Register
 
-{{< registrationForm >}}
+{{< registrationForm2 >}}
 
 
 ## Cancellation Policy

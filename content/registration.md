@@ -23,7 +23,7 @@ Speakers and programme agenda are subject to change.
 
 Registration is closed as the venue capacity has been reached.  
 
-If your abstract has been accepted, but you have not yet registered, please use the link in the acceptance email to complete registration.
+If your abstract has been accepted, but you have not yet registered, please use the link in the acceptance email to complete registration.  If you have not already heard from us don't worry, these emails will be sent by 05 July 2022.
 
 <!--
 {{< registrationForm >}}
