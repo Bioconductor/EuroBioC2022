@@ -5,7 +5,7 @@ description = "Presenter Registration"
 
 # Registration for the EuroBioC2022 conference.
 
-Thank you for submitting an contribution to EuroBioC2022; we're delighted to accept your submission.  Please complete the registration form below to finalise your registration.
+Thank you for submitting a contribution to EuroBioC2022; we're delighted to accept your submission.  Please complete the registration form below to finalise your registration.
 
 ## Fees
 
