@@ -35,6 +35,7 @@ description = "Sponsors"
 | **https://www.bayer.com/** |
 &nbsp;
 
+<!--
 |       |
 |:-----:|
 | **Biogen** |
@@ -48,6 +49,7 @@ description = "Sponsors"
 | ![](../img/clients/Genentech-Logo_resized.png) |
 | **https://www.gene.com/** |
 &nbsp;
+-->
 
 # Silver
 
