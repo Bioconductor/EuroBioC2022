@@ -3,11 +3,11 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-### The detailed schedule is currently under development and will be posted here shortly
+# The detailed schedule is currently under development and will be posted here shortly
 
 Times below are approximate.
 
-### Wednesday, September 14
+## Wednesday, September 14
 
 09:00  Conference start
 
@@ -15,13 +15,13 @@ Times below are approximate.
 
 Social dinner
 
-### Thursday, September 15
+## Thursday, September 15
 
 09:00  Conference start
 
 17:30  Conference end
 
-### Friday, September 16
+## Friday, September 16
 
 09:00  Conference start
 
@@ -30,6 +30,7 @@ Social dinner
 <!-- 
 Keynote sessions are 50 min, Short talk sessions (four 10-min talks) are 50 min, Package demos are 45 min. Sessions during the same time slot will be run in parallel. All sessions include Q&A time.
 -->
+
 <!--
 All times are in Central European Time (CET). -6 hours = US Eastern Time Zone, -9 hours = US Pacific Time Zone, +7 hours = China Time Zone, +10 hours = Australian Time Zone. Time is presented in 24h format. Note March 13 is the start of Daylight Saving Time (Clock forward)
 
