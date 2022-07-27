@@ -27,7 +27,8 @@ Social dinner
 
 15:00  Conference end
 
-<!--Keynote sessions are 50 min, Short talk sessions (four 10-min talks) are 50 min, Package demos are 45 min. Sessions during the same time slot will be run in parallel. All sessions include Q&A time.
+<!-- 
+Keynote sessions are 50 min, Short talk sessions (four 10-min talks) are 50 min, Package demos are 45 min. Sessions during the same time slot will be run in parallel. All sessions include Q&A time.
 -->
 <!--
 All times are in Central European Time (CET). -6 hours = US Eastern Time Zone, -9 hours = US Pacific Time Zone, +7 hours = China Time Zone, +10 hours = Australian Time Zone. Time is presented in 24h format. Note March 13 is the start of Daylight Saving Time (Clock forward)
