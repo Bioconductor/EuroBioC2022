@@ -85,6 +85,12 @@ description = "Sponsors"
 | **https://www.embl.org/sites/heidelberg/** |
 &nbsp;
 
+|       |
+|:-----:|
+|  |
+| ![](../img/clients/EMBLEM_Technology-Transfer-GmbH.php.png) |
+|  |
+&nbsp;
 
 
 <!--
