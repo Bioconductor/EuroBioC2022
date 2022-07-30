@@ -67,6 +67,15 @@ description = "Sponsors"
 | **https://www.rstudio.com/** |
 &nbsp;
 
+# Others
+
+|       |
+|:-----:|
+| **StickerMule** |
+| ![](../img/clients/StickerMule_resized.png) |
+| **https://www.stickermule.com/** |
+&nbsp;
+
 # Patronage
 
 |       |
