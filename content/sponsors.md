@@ -73,7 +73,7 @@ description = "Sponsors"
 |:-----:|
 | **StickerMule** |
 | ![](../img/clients/StickerMule_resized.png) |
-| **https://www.stickermule.com/** |
+| **https://www.stickermule.com/eu/custom-stickers** |
 &nbsp;
 
 # Patronage
