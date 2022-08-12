@@ -232,14 +232,14 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 - Highest recognition, using your logo, in the online plattform (Airmeet), on the website, and on printed promotional and scheduling material.
 - Up to 3 free registrations and participation in the social dinner.
 - A thank-you tweet including your preferred Twitter handle.
-- A table during the poster session
+<!-- A table during the poster session -->
 
 **Gold: 3.000,00 Euros**
 
 - Top recognition, using your logo, in the online and print conference promotional and scheduling material.
 - Up to 2 free registrations.
 - A thank-you tweet including your preferred Twitter handle.
-- A table during the poster session
+<!-- A table during the poster session -->
 
 **Silver: 1,000 Euros**
 
