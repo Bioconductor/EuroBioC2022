@@ -5,6 +5,8 @@ description = "Schedule"
 
 # The detailed schedule is currently under development and will be posted here shortly
 
+Talks will be live streamed via Zoom directly to the BioC YouTube channel.
+
 Times below are approximate.
 
 ## Wednesday, September 14
