@@ -11,7 +11,7 @@ description = "Registration"
 
 ## Details
 
-The non-refundable fees include participation in the talks and workshops, and all other conference events: coffee breaks, buffet lunch, and social dinner.
+The non-refundable fees include participation in the talks and workshops, and all other conference events: coffee breaks, buffet lunch, and conference dinner.
 
 Places are awarded on a first-come, first-served basis. In previous years the conference was sold out. We aim to finalize registration by 20 July 2022.
 
