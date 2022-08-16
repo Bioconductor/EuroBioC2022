@@ -236,7 +236,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 **Platinum: 5.000,00 Euros**
 
 - Poster session will be named after these donors.
-- Highest recognition, using your logo, in the online plattform (Airmeet), on the website, and on printed promotional and scheduling material.
+- Highest recognition, using your logo, on the website, and on printed promotional and scheduling material.
 - Up to 3 free registrations and participation in the social dinner.
 - A thank-you tweet including your preferred Twitter handle.
 <!-- A table during the poster session -->
