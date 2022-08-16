@@ -84,10 +84,10 @@ knitr::kable(workshop_table,
 _Bioconductor_ encourages workshop authors to use the Orchestra platform (optional).
 
 The platform requires a [Docker][docker-hub] image to run reproducible instances of the workshop in the cloud.
-
 A `r BiocStyle::CRANpkg("pkgdown")` website is also expected, as a publicly available static website that participants can refer to during the workshop.
-
 Both the [Docker][docker-hub] image and the `r BiocStyle::CRANpkg("pkgdown")` website are automatically built using a GitHub Action workflow provided in a template `r as.character(fontawesome::fa("github"))` GitHub repository.
+
+To create a workshop compatible with the Orchestra platform, please follow the instructions below:
 
 - Navigate to the template `r as.character(fontawesome::fa("github"))` GitHub repository [seandavi/BuildABiocWorkshop][seandavi-buildabiocworkshop].
 - Click the green button `Use this template`.
@@ -101,13 +101,22 @@ Both the [Docker][docker-hub] image and the `r BiocStyle::CRANpkg("pkgdown")` we
 
 For an example of successful GitHub Action workflow report, see [here][github-action-success].
 
+Note that workshop materials can continue to be updated up after it was added to Orchestra.
+Updated materials will automatically become available on the Orchestra platform when the GitHub Action workflow completes the build and deployment of the Docker image.
+
 ### Alternative workshop formats
 
-Workshop authors may also prepare workshops in other formats (e.g., asking participants to install packages on their own laptops).
+Workshop authors may also prepare workshops in other formats, e.g.:
 
-In that case, we encourage workshop authors to take into account the time needed to setup the required environment on the participants laptops at the start of the workshop.
+- Screensharing the presenter's _R_ session.
+- Asking participants to install packages on their own laptops.
 
-In doubt, please contact the [organising committee](organizers) to discuss your preferred workshop format.
+However, in any case, we encourage workshop authors to consider whether they expect participants to follow along on their own computer, and to take into account the time needed to setup the required environment on the participants laptops at the start of the workshop.
+
+In doubt, please post your questions on the [#biocworkshops][bioc-slack-biocworkshops] channel of the _Bioconductor_ Slack workspace (preferred).
+Join the Slack workspace using [this self-registration link][bioc-slack-heroku].
+
+Alternatively, contact the [organising committee](../organizers#contact-us-eurobiocemblorg).
 
 <!-- Link definitions -->
 
@@ -116,3 +125,5 @@ In doubt, please contact the [organising committee](organizers) to discuss your 
 [howto-buildabiocworkshop]: https://seandavi.github.io/BuildABiocWorkshop/articles/HOWTO_BUILD_WORKSHOP.html
 [orchestra-contributions-new-issue]: https://github.com/seandavi/orchestra-contributions/issues/new?assignees=seandavi&labels=New+workshop&template=new-orchestra-workshop.md&title=%5BNew+Workshop%5D
 [github-action-success]: https://github.com/seandavi/BuildABiocWorkshop/runs/7541638487?check_suite_focus=true
+[bioc-slack-biocworkshops]: https://community-bioc.slack.com/archives/CJDMYKG2U
+[bioc-slack-heroku]: https://bioc-community.herokuapp.com/
