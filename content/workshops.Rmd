@@ -1,0 +1,118 @@
+---
+output: github_document
+always_allow_html: false
+---
+
+## Workshops
+
+```{r, eval=FALSE, echo=FALSE}
+# run this to create the workshops.md file
+rmarkdown::render("workshops.Rmd",
+    rmarkdown::md_document(
+        variant="gfm", preserve_yaml = FALSE
+    )
+)
+writeLines(c(
+"---
+layout: default
+---
+
+",
+    readLines("workshops.md")
+    ),
+    con = file("workshops.md")
+)
+```
+
+```{r, include=FALSE}
+setClass("Workshop", representation(
+    title = "character",  # Workshop title
+    github = "character", # GitHub repository 'owner/repo'
+    docker = "character", # Docker repository 'owner/repo'
+    badge = "character"   # path to the GitHub workflow badge
+))
+Workshop <- function(...) {
+    new("Workshop", ...)
+}
+setGeneric(
+    "renderTibbleRow",
+    function(x) standardGeneric("renderTibbleRow")
+)
+setMethod("renderTibbleRow", "Workshop", function(x) {
+    github_user_repo <- strsplit(x@github, "/")[[1]]
+    github_user <- github_user_repo[1]
+    github_repo <- github_user_repo[2]
+    workshop_link <- sprintf("[%s](https://%s.github.io/%s)&nbsp;&nbsp;", x@title, github_user, github_repo)
+    source_link <- sprintf("[%s](https://github.com/%s)", fontawesome::fa("github"), x@github)
+    docker_image <- htmltools::HTML(fontawesome::fa("docker"))
+    docker_image_url <- sprintf("https://hub.docker.com/r/%s", x@docker)
+    docker_link <- sprintf("[%s](%s)", docker_image, docker_image_url)
+    status_badge <- sprintf("[![GitHub Action badge](https://github.com/%s/workflows/%s)](https://github.com/%s/actions)", x@github, x@badge, x@github)
+    tibble::tibble(
+        Workshop = workshop_link,
+        Source = source_link,
+        Docker = docker_link,
+        Status = status_badge
+    )
+})
+```
+
+```{r, include=FALSE}
+Paper9 <- Workshop(
+    title = "Example Title",
+    github = "username/repo",
+    docker = "docker_username/docker_repo",
+    badge = ".github/workflows/basic_checks.yaml/badge.svg"
+)
+```
+
+```{r, echo=FALSE}
+workshop_table <- dplyr::bind_rows(
+    renderTibbleRow(Paper9)
+)
+knitr::kable(workshop_table,
+    format = "markdown",
+    col.names = c("Workshop", "Source&nbsp;&nbsp;", "Docker&nbsp;&nbsp;", "Status"),
+    align=c("l", "c", "c", "l")
+)
+```
+
+## Author guidelines
+
+### Orchestra workshop
+
+_Bioconductor_ encourages workshop authors to use the Orchestra platform (optional).
+
+The platform requires a [Docker][docker-hub] image to run reproducible instances of the workshop in the cloud.
+
+A `r BiocStyle::CRANpkg("pkgdown")` website is also expected, as a publicly available static website that participants can refer to during the workshop.
+
+Both the [Docker][docker-hub] image and the `r BiocStyle::CRANpkg("pkgdown")` website are automatically built using a GitHub Action workflow provided in a template `r as.character(fontawesome::fa("github"))` GitHub repository.
+
+- Navigate to the template `r as.character(fontawesome::fa("github"))` GitHub repository [seandavi/BuildABiocWorkshop][seandavi-buildabiocworkshop].
+- Click the green button `Use this template`.
+- Fill the form on the next web page and click the green button `Create repository from template`.
+  + Select the option `Public`.
+- Update your new workshop repository with your own content following instructions in the page [How To Build A Workshop Package
+][howto-buildabiocworkshop].
+- When your workshop repository is ready, open an issue [here][orchestra-contributions-new-issue].
+  + Replace the template contents of the issue with the corresponding information for your own workshop.
+  + A workshop is ready when the GitHub Action workflow running on the main branch successfully builds the `r BiocStyle::CRANpkg("pkgdown")` website and the [Docker][docker-hub] image for the workshop.
+
+For an example of successful GitHub Action workflow report, see [here][github-action-success].
+
+### Alternative workshop formats
+
+Workshop authors may also prepare workshops in other formats (e.g., asking participants to install packages on their own laptops).
+
+In that case, we encourage workshop authors to take into account the time needed to setup the required environment on the participants laptops at the start of the workshop.
+
+In doubt, please contact the [organising committee](organizers) to discuss your preferred workshop format.
+
+<!-- Link definitions -->
+
+[docker-hub]: https://hub.docker.com/
+[seandavi-buildabiocworkshop]: https://github.com/seandavi/BuildABiocWorkshop
+[howto-buildabiocworkshop]: https://seandavi.github.io/BuildABiocWorkshop/articles/HOWTO_BUILD_WORKSHOP.html
+[orchestra-contributions-new-issue]: https://github.com/seandavi/orchestra-contributions/issues/new?assignees=seandavi&labels=New+workshop&template=new-orchestra-workshop.md&title=%5BNew+Workshop%5D
+[github-action-success]: https://github.com/seandavi/BuildABiocWorkshop/runs/7541638487?check_suite_focus=true
