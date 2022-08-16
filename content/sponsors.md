@@ -62,6 +62,13 @@ description = "Sponsors"
 
 |       |
 |:-----:|
+| **OPIFEX** |
+| ![](../img/clients/opifex-logo_resize.png) |
+| **https://opifex.org/** |
+&nbsp;
+
+|       |
+|:-----:|
 | **RStudio** |
 | ![](../img/clients/RStudio_resized.jpeg) |
 | **https://www.rstudio.com/** |
