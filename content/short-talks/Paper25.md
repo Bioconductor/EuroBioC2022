@@ -1,0 +1,13 @@
+---
+title: "Short talk: OmicSHIELD: privacy-protected federated omic data analysis in multi-center studies with Bioconductor through DataSHIELD"
+draft: false
+type: "blog"
+---
+
+## OmicSHIELD: privacy-protected federated omic data analysis in multi-center studies with Bioconductor through DataSHIELD
+Juan Ramon Gonzalez,Xavier Escribà Montagut,Yannick Marcon	
+Barcelona Institute for Global Health (ISGlobal), Barcelona, Spain	
+
+#### Abstract
+
+Sharing data across studies are subject to confidentiality and must comply with data protection regulations. Therefore, performing omic data analysis in multi-center studies is a challenging task. DataSHIELD is a software solution for secure data science collaboration that allows privacy-protected data analysis of federated databases. It enables the remote and non-disclosive analysis of sensitive research data, and has been developed under several EC projects (BioSHaRE-EU, ATHLETE, LifeCycle, unCoVer, EUCAN-Connect). So far, DataSHIELD includes an extensive set of disclosure-protected functions for data manipulation, exploratory data analytics, generalized linear modeling and data visualizations. Federated analyses (FA) has been proposed to overcome the strong requirement that are required when sharing genomic and health data (e.g. GDPR).We have extended DataSHIELD by incorporating new functionalities to deal with most of the omic data analyses required in biomedical studies. These include genome- and epigenome-wide association studies and differential gene expression analyses. Our functions allow to perform both meta-analyses and mega-analyses (i.e.pooled analyses). Our solution is built upon standard BioConductor data infrastructures (GenomicDataStorage, ExpressionSet, RangedSummarizedExperiments) and analysis packages (limma, voom, GENESIS, GWASTools). The BioConductor functions have been wrapped with different control methods to avoid leaking individual information (differential privacy, disclosure traps, allele-frequency filters). Scalable algorithms have been implemented to perform pooled analyses in an efficient manner. To demonstrate the software, we will illustrate how to perform a federated GWAS and compare our results with traditional approaches. OmicSHIELD can be extended to any required data analyses and methods (e.g. mediation, multi-omic integration, …) as well as other data technologies such as single cell. We have several bookdowns describing how to create new DataSHIELD packages and functions and how to create new resources to include any omic data into OmicSHIELD. We hope that Bioconductor community can use our project to create new packages to allow federated analyses using high-dimensional data in an easy way.
