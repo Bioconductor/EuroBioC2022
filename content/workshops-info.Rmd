@@ -3,7 +3,7 @@ output: github_document
 always_allow_html: false
 ---
 
-## Workshops
+## Workshops information
 
 ```{r, eval=FALSE, echo=FALSE}
 # run this to create the workshops.md file
