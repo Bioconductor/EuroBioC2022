@@ -9,6 +9,10 @@ description = "Submissions"
 
 - BoF sessions can be proposed until September 14, by filing an issue in https://github.com/bioconductor/eurobioc2022. In the issue, please provide information about the plan and intended outcomes of the session, as well as the name and contact information of the organizer(s).
 
+## Guidelines for workshop authors
+
+Workshop authors should refer to the page [Workshops information](../workshops-info/) for guidelines to prepare and format their workshop materials.
+
 <!-- 
 ## Submission is closed
 
