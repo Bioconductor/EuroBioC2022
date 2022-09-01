@@ -1,10 +1,10 @@
 ---
-title: "Poster: Building and visualizing automated pre-processing and quality control pipelines for flow cytometry data"
+title: "Poster: CytoPipeline: building and visualizing automated pre-processing and quality control pipelines for flow cytometry data"
 draft: false
 type: "blog"
 ---
 
-## Building and visualizing automated pre-processing and quality control pipelines for flow cytometry data
+## CytoPipeline: building and visualizing automated pre-processing and quality control pipelines for flow cytometry data
 Philippe Hauchamps,Dan Lin,Laurent Gatto
 Computation Biology and Bioinformatics (CBIO) Unit, de Duve Institute, UCLouvain, Belgium
 #### Abstract
