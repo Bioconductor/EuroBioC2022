@@ -87,5 +87,5 @@ For Code of Conduct in other languages, see [bioc_coc_multilingual](https://bioc
 
 |       |   |     |   |      |
 |-------|---|-----|---|------|
-| ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.jpg) |
-| [Aedin Culhane](mailto:Aedin.Culhane@ul.ie?subject=EuroBioC2022%20code-of-conduct) | &nbsp;  | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=EuroBioC2022%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=EuroBioC2022%20Code-of-conduct) |
+| ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/SimoneBell.jpg) | &nbsp; | ![](../img/organizers/LaurentGatto.jpg) |
+| [Aedin Culhane](mailto:Aedin.Culhane@ul.ie?subject=EuroBioC2022%20code-of-conduct) | &nbsp;  | [Simone Bell](mailto:simone.bell@embl.de?subject=EuroBioC2022%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=EuroBioC2022%20Code-of-conduct) |
