@@ -38,8 +38,8 @@ description = "Sponsors"
 |       |
 |:-----:|
 | **VOICES from the Blogs** |
-| ![](../img/voices-logo_resized.jpg) |
-| ** ** |
+| ![](../img/clients/voices-logo_resized.jpg) |
+|  |
 &nbsp;
 
 <!--
