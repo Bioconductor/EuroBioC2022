@@ -35,6 +35,13 @@ description = "Sponsors"
 | **https://www.bayer.com/** |
 &nbsp;
 
+|       |
+|:-----:|
+| **VOICES from the Blogs** |
+| ![](../img/voices-logo_resized.jpg) |
+| ** ** |
+&nbsp;
+
 <!--
 |       |
 |:-----:|
