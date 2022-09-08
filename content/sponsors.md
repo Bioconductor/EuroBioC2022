@@ -81,6 +81,13 @@ description = "Sponsors"
 | **https://www.rstudio.com/** |
 &nbsp;
 
+|       |
+|:-----:|
+| **R Consortium** |
+| ![](../img/clients/RConsortium_Vertical_Pantone_resized.png) |
+| **https://www.r-consortium.org/** |
+&nbsp;
+
 # Others
 
 |       |
