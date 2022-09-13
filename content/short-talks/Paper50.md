@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Tools for CITE-seq preprocessing"
+title: "Short talk: Tools for CITE-seq preprocessing"
 draft: false
 type: "blog"
 ---
