@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Multi-omic integration with cosmosR and ocEAn to study cross-talks between signalling and metabolism in diseases.
+
 Aurelien Dugourd,Julio Saez-Rodriguez	
+
 Heidelberg Medical University	
 
 #### Abstract

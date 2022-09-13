@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## DepInfeR - A Bioconductor package for Inferring tumor-specific cancer dependencies through integrating ex-vivo drug response assays and drug-protein profiling
+
 Alina Batzilla,Junyan Lu,Wolfgang Huber	
+
 Medical Faculty Heidelberg, University of Heidelberg	
 
 #### Abstract

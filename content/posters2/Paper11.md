@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## miaSim: a time series simulation R package for microbial ecology
+
 Yagmur Simsek,Yu Gao,Daniel Rios Garza,Karoline Faust,Leo M Lahti	
+
 Department of Computing, University of Turku, Finland	
 
 #### Abstract

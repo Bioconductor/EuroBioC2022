@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Analysing multiplexed assays of variant effects with mutscan
+
 Alexandra Bendel,Guillaume Diss,Charlotte Soneson,Michael B Stadler	
+
 Friedrich Miescher Institute for Biomedical Research	
 
 #### Abstract

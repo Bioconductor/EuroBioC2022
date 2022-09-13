@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Co-clustering of Spatially Resolved Transcriptomic Data
+
 Andrea Sottosanti,Davide Risso	
+
 University of Padova	
 
 #### Abstract

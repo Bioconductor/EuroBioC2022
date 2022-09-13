@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## µSTASIS - Assessment of human microbiota stability across longitudinal samples
+
 Pedro Sánchez-Sánchez	
+
 Institute for Research in Biomedicine (IRB) Barcelona	
 
 #### Abstract

@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## DifferentialRegulation: a novel approach to identify differentially regulated genes.
+
 Simone Tiberi,Joël Meili,Mark Robinson	
+
 University of Zurich	
 
 #### Abstract

@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Inclusive instruction in cancer data science: Authoring and deployment with yes4cure
+
 Alexandru Mahmoud,Brittany Michel,Latrice G Landry,Karen Burns White,Vincent James Carey	
+
 Channing Division of Network Medicine, Mass General Brigham, Harvard Medical School	
 
 #### Abstract

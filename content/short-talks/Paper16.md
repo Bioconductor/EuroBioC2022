@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Joint modeling of rare variant genetic effects using deep learning and data-driven burden scores
+
 Brian Clarke,Eva Holtkamp,Hakime Öztürk,Felix Brechtmann,Florian Hölzlwimmer,Julien Gagneur,Oliver Stegle	
+
 German Cancer Research Center (DKFZ)	
 
 #### Abstract

@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Inference and Analysis of Synteny Networks with syntenet
+
 Fabrício Almeida-Silva,Kristian K Ullrich,Tao Zhao,Yves Van de Peer	
+
 FA-S and YVdP: VIB-UGent Center for Plant Systems Biology, Ghent, Belgium; KKU: Max Planck Institute for Evolutionary Biology, Ploen, Germany; TZ: Northwest A&F University, Shaanxi, China	
 
 #### Abstract

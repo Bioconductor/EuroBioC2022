@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## A new principled approach for single-cell proteomics data analysis
+
 Laurent Gatto,Christophe Vanderaa	
+
 de Duve Institute, UCLouvain, Belgium	
 
 #### Abstract

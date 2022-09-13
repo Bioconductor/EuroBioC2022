@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## MethQuant: A package providing entropy-based measures for quantifying patterns of DNA methylation heterogeneity in (single-cell) bisulfite sequencing data
+
 Emanuel Sonder	
+
 ETH Zurich	
 
 #### Abstract

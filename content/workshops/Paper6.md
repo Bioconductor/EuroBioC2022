@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## simplifyEnrichment: A Bioconductor Package for Clustering and Visualizing Functional Enrichment Results
+
 Zuguang Gu
+
 German Cancer Research Center
 
 #### Abstract

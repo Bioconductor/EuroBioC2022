@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Simplified, strand aware and comprehensive splicing analysis using IntEREst (1.22.0).
+
 Ali Oghabian,Mikko Frilander	
+
 Folkhälsan Research Center & University of Helsinki	
 
 #### Abstract

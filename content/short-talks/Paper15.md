@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Sandwich Estimators for Differential Expression Analysis of Multi-Subject scRNA-seq data
+
 Milan Malfait,Jeroen Gilis,Koen Van den Berge,Alemu Takele Assefa,Bie Verbist,Lieven Clement	
+
 Department of Applied Mathematics, Computer Science and Statistics, Ghent University	
 
 #### Abstract

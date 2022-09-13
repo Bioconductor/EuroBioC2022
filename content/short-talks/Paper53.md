@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Differential embedding analysis of multi-condition single-cell datasets
+
 Constantin Ahlmann-Eltze,Wolfgang Huber	
+
 EMBL Heidelberg	
 
 #### Abstract

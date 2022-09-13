@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Single-cell multi-modal data handling in R/Bioconductor
+
 Dario Righelli,Davide Risso
+
 Department of Statistical Sciences, University of Padova	
 
 #### Abstract

@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Smooth epigenomics data analysis and visualisation with Bioconductor (or: an ode to Rle)
+
 Pierre-Luc Germain,Mark Robinson	
+
 ETH & University of Zürich	
 
 #### Abstract

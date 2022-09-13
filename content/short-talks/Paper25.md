@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## OmicSHIELD: privacy-protected federated omic data analysis in multi-center studies with Bioconductor through DataSHIELD
+
 Juan Ramon Gonzalez,Xavier Escribà Montagut,Yannick Marcon	
+
 Barcelona Institute for Global Health (ISGlobal), Barcelona, Spain	
 
 #### Abstract

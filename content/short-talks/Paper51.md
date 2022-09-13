@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## DeeDee - Evaluating, Visualizing, and Integrating Results from Differential Expression Analysis Workflows
+
 Federico Marini,Lea Rothörl	
+
 University Medical Center Mainz	
 
 #### Abstract

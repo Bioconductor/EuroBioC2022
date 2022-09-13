@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Analyzing hydrogen-deuterium exchange mass-spectrometry data in R
+
 Oliver Crook,Oliver Crook	
+
 University of Oxford	
 
 #### Abstract

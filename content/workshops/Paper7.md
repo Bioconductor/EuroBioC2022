@@ -5,7 +5,9 @@ type: "blog"
 ---
 
 ## Single-cell based spatial analysis and visualization of highly multiplexed imaging data
+
 Nils Eling,Jonas Windhager
+
 University of Zurich
 
 #### Abstract
