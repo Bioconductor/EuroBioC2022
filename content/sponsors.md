@@ -69,6 +69,13 @@ description = "Sponsors"
 
 |       |
 |:-----:|
+| **BigOmics Analytics** |
+| ![](../img/clients/BigOmics_Logo_WhiteBackground_resized.png) |
+| **https://bigomics.ch/** |
+&nbsp;
+
+|       |
+|:-----:|
 | **OPIFEX** |
 | ![](../img/clients/opifex-logo_resize.png) |
 | **https://opifex.org/** |
