@@ -12,6 +12,14 @@ Talks will be live streamed via Zoom directly to the BioC YouTube channel.
 Keynote sessions are 35 min, Short talk sessions (four 10-min talks) are 50 min, 
 Workshops are 45 min. Sessions during the same time slot will be run in parallel. All sessions include Q&A time.
 
+Some demos are available on the Orchestra platform, which allows participants to follow along in the live coding. To connect to an Orchestra demo, do as follows: 
+
+1. Go to [Orchestra](http://app.orchestra.cancerdatasci.org/).
+2. Log in.
+3. Search for the workshop of interest.
+4. Click "Launch" (may take a minute or two).
+5. Follow instructions.
+
 All times are in Central European Summer Time (CEST). -6 hours = US Eastern Time Zone, -9 hours = US Pacific Time Zone, 
 +7 hours = China Time Zone, +10 hours = Australian Time Zone. Time is presented in 24h format. 
 Note March 13 is the start of Daylight Saving Time (Clock forward)
